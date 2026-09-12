@@ -1,0 +1,10 @@
+matplotlib==3.11.1
+numpy==2.4.4
+pillow==12.2.0
+torch==2.13.0+cu126
+torchvision==0.28.0+cu126
+ultralytics==8.4.121
+grad-cam==1.5.5
+jupyter==1.1.1
+scikit-learn==1.9.0
+pandas==3.0.5
