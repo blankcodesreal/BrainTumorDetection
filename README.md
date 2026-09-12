@@ -21,7 +21,7 @@ The pipeline runs two models in parallel on an input MRI scan:
 | Detection | False positive rate @ conf 0.5 | 0.0019 |
 
 ![Training curves — detection mAP and loss over 75 epochs](results/losses.JPG)
-![Training curves — detection mAP and loss over 75 epochs](mAP50-mAP50-95.JPG)
+![Training curves — detection mAP and loss over 75 epochs](mAP.JPG)
 
 ![Confusion matrix — classification](results/Confusion.JPG)
 
