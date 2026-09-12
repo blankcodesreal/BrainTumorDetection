@@ -37,6 +37,8 @@ Grad-CAM interpretability analysis surfaced a shortcut-learning issue during dev
 project-root/
 ├── README.md
 ├── requirements.txt
+├── data/
+│   ├──........
 ├── src/
 │   ├── preprocess.py        # derives YOLO-format bounding box labels from ground-truth tumor masks
 │   ├── training_cls.py      # classification model training
